@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="wugong">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="wugong"/>
         <property name="java-output-path" value="/wugong/build/classes"/>
+=======
+    <wb-module deploy-name="wugong_yue">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="wugong_yue"/>
+        <property name="java-output-path" value="/wugong_yue/bin"/>
+>>>>>>> branch 'master' of git@github.com:Tjb160320/wugong.git
     </wb-module>
 </project-modules>
